@@ -1,0 +1,17 @@
+{
+  "env": {
+    "amd": true
+  },
+  "extends": [
+    "eslint:recommended",
+    "plugin:react/recommended"
+  ],
+  "plugins": [
+    "prettier",
+    "react"
+  ],
+  "parser": "babel-eslint",
+  "rules": {
+    "prettier/prettier": "error"
+  }
+}

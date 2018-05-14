@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "test-app": "test-app-4ff61",
+    "ssr": "test-app-4ff61",
+    "default": "test-app-4ff61"
+  }
+}
